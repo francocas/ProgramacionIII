@@ -1,7 +1,9 @@
 h1,h2{
         color: blue;
         
-        
+        border-width: 9px;
+        border-color: lime;
+        border-style: dashed;
         text-align: center;
         /*background-color: cadetblue;*/
         letter-spacing: 10px;
