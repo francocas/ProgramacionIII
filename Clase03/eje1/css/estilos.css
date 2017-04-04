@@ -12,6 +12,8 @@ h1,h2{
         font-style: italic;
         font-weight: 100;        
         text-transform: capitalize;
+        margin: 30px;   
+        
     }
 
     p{
