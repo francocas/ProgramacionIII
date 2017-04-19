@@ -1,0 +1,21 @@
+JSON
+[{"atr1":"valor1", "atr2":"valor2"}
+,{"atr1": "valor3", "atr2":"valor2"}
+]
+
+GET = info en la query strin
+POST = info en el BODY de la request
+Ambos pasan texto
+
+var myOjs
+{
+"nombre":"carlos", "edad":30};
+}
+
+var myJson = Json.stringify(myOjs)
+
+Recibir datos
+
+Var myJson     = '{"nombre":"carlos", "edad":30};'
+
+var myojs = json.parse(myJson);
