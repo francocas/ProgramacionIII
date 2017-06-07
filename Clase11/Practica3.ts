@@ -44,7 +44,7 @@ var charles = {
   estatura: 1.78
 };
 
-var apocalipsis = {
+var apocalipsis:apocalipsis = {
   lider:true,
   miembros: ["Magneto","Tormenta","Psylocke","Angel"]
 }
